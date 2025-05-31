@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Beshoy Botros
 
-🎓 Junior Data Science Student at AUC  
+🎓 Junior Data Science Student at AUC 
+📚 Minoring in Computer Science & Business
 🤖 Aspiring Machine Learning Engineer  
 📊 Passionate about Sports Analytics & Business Strategy
 
