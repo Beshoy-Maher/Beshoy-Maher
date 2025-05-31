@@ -4,7 +4,7 @@
 - 🛠️ I’m currently working on [Performance analysis and prediction for Premier League Players App](#)
 - 🌱 I’m currently learning **Data Mining, Deep Learning, and Machine Learning**
 - 📫 How to reach me: beshoymaher@aucegypt.edu  
-- 🔗 Know about my experiences [LinkedIn]([https://www.linkedin.com/in/beshoy-botros/](https://www.linkedin.com/in/beshoy-maher-botros-9b92b92b8/))
+- 🔗 Know about my experiences [LinkedIn]([[https://www.linkedin.com/in/beshoy-botros/](https://www.linkedin.com/in/beshoy-maher-botros-9b92b92b8/)](https://www.linkedin.com/in/beshoy-maher-botros-9b92b92b8/))
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/beshoy-botros/](https://www.linkedin.com/in/beshoy-maher-botros-9b92b92b8/))
