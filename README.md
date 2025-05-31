@@ -11,6 +11,8 @@
 
 ## 🧰 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -20,5 +22,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0696D7?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Beshoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=beshoy-botros&show_icons=true&theme=radical)
+![Beshoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beshoy-botros&show_icons=true&theme=radical)
+![Beshoy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beshoy-botros&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
+## ✍️ Random Quote
+
+> “The goal is to turn data into information, and information into insight.” — *Carly Fiorina, former CEO of HP*
