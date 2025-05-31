@@ -7,7 +7,7 @@
 - 🔗 Know about my experiences [LinkedIn]([[https://www.linkedin.com/in/beshoy-botros/](https://www.linkedin.com/in/beshoy-maher-botros-9b92b92b8/)](https://www.linkedin.com/in/beshoy-maher-botros-9b92b92b8/))
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshoy-maher-botros/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/beshoy-maher-botros/](https://www.linkedin.com/in/beshoy-maher-botros-9b92b92b8/))
 
 
 ## 🧰 Tech Stack:
