@@ -22,7 +22,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0696D7?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=beshoy-maher&theme=github-compact)
 ![Beshoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beshoy-maher&show_icons=true&theme=radical)
 ![Beshoy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beshoy-maher&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
